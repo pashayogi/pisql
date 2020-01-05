@@ -1,2 +1,3 @@
 # pisql
-Metode sql
+'''
+Follow Instagram @pranata_pasha
